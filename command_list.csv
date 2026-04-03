@@ -1,0 +1,119 @@
+    1  git config --global user.name "Маришка"
+    2  git config --global user.email mary_yar@ukr.net
+    3  git clone https://github.com/Mary1986-hub/HW_10.git
+    4  cd HW_10
+    5  touch text_ignore.txt
+    6  nano .gitignore
+    7  cd Git HW_10
+    8  cd Git
+    9  cd Desktop
+   10  cd Git
+   11  cd HW_10
+   12  nano text_ignore.txt
+   13  git status
+   14  git add text_ignore.txt
+   15  git add "text_ignore.txt"
+   16  git stsus
+   17  git status
+   18  git commit -m "New file created"
+   19  git status
+   20  git log
+   21  git touch main_test.txt
+   22  touch main_test.txt
+   23  git status
+   24  git add main_test.txt
+   25  git status
+   26  git commit -m "New file created"
+   27  git status
+   28  git branch
+   29  git checkout -b branch_develop
+   30  git branch
+   31  checkout branch+develop
+   32  checkout main
+   33  git checkout main
+   34  git checkout branch_develop
+   35  touch develope_test.txt
+   36  git status
+   37  git add develop_test.txt
+   38  git add  develope_test.txt
+   39  git status
+   40  git commit -m "New file created"
+   41  git nano develope_test.txt
+   42  git nano develope_test.txt
+   43  git nano develope_test.txt
+   44  cd develope_test.txt
+   45  nano  develope_test.txt
+   46  git status
+   47  git commit -m "New modified"
+   48  git branch
+   49  git add
+   50  add develope_test.txt
+   51  git add develope_test.txt
+   52  git branch
+   53  git checkout main
+   54  git commit -m "New modified"
+   55  git merge main
+   56  git status
+   57  git commit
+   58  git checkout main
+   59  git status
+   60  git branch
+   61  git merge branch_develop
+   62  git ststus
+   63  git status
+   64  git log
+   65  git add gevelope-test.txt
+   66  git add develope_test.txt
+   67  git status
+   68  git push
+   69  git chekout main
+   70  git checkout
+   71  git checkout main
+   72  git merge develop_branch
+   73  git checkout main
+   74  git checkout develop_branch
+   75  git checkout branch_develop
+   76  git merge main
+   77  git status
+   78  clear
+   79  cd main
+   80  cd Desctop
+   81  cd Desktop
+   82  cd Git
+   83  touch develop_branch
+   84  checkout develop_branch
+   85  git checkout develop_branch
+   86  cd HW_10
+   87  git status
+   88  touch develop_test.txt
+   89  git status
+   90  git add develop_test.txt
+   91  git status
+   92  git commit -m "New file created"
+   93  git status
+   94  git log
+   95  git checkout branch_develop
+   96  git log
+   97  git merge main
+   98  git status
+   99  git add text_ignore.txt
+  100  git status
+  101  git checkout main
+  102  git merge develop
+  103  git merge branch_develop
+  104  git status
+  105  git commit -m "Branches merged"
+  106  git log
+  107  > command_list.csv
+  108  git add.
+  109  git push
+  110  cd Desktop
+  111  cd Git
+  112  cd HW_10
+  113  cd Git
+  114  git push
+  115  git push
+  116  command_list.csv
+  117  history > command_list.csv
+  118  git history > command_list.csv
+  119  history > command_list.csv
